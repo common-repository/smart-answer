@@ -1,0 +1,1 @@
+jQuery(document).ready(function ($){    window.ajaxurl = ajax_object.ajaxurl;    /*console.log("window.ajaxurl ", window.ajaxurl );*/});

@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Loco Demo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-11 15:08+0000\n"
+"PO-Revision-Date: 2024-01-15 16:22+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: es_CR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Parser: loco_parse_po"
+
+msgid "Add new"
+msgstr "Agregar nueva"
+
+msgid "Banned"
+msgstr "Prohibida"
+
+msgid "Favorite"
+msgstr "Favorita"
+
+msgid "First Name"
+msgstr "Nombre"
+
+msgid "Id"
+msgstr "Identificador"
+
+msgid "No responses found"
+msgstr "No se encontraron respuestas"
+
+msgid "Question"
+msgstr "Pregunta"
+
+msgid "Question Id"
+msgstr "ID Pregunta"
+
+msgid "Question data"
+msgstr "Datos de pregunta"
+
+msgid "Questions"
+msgstr "Preguntas"
+
+msgid "Response Text"
+msgstr "Respuesta"
+
+msgid "Response data"
+msgstr "Datos de Respuesta"
+
+msgid "Responses"
+msgstr "Respuestas"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Title"
+msgstr "Titulo"
+
+msgid "User Id"
+msgstr "Id de Usuario"
+
+msgid "back to list"
+msgstr "volver a la lista"
+
+msgid "Add at least one question"
+msgstr "Agregue al menos una pregunta"
+
+msgid "Question Id is required"
+msgstr "Se requiere el ID de la Pregunta"
+
+msgid "Name is required"
+msgstr "Se requiere el Nombre"
+
+msgid "Response Text is required"
+msgstr "Se requiere la Respuesta"
+
+msgid "Item was successfully saved"
+msgstr "El elemento se guardó correctamente"
+
+msgid "Items deleted: %d"
+msgstr "Elementos eliminados: %d"
+
+msgid "We could not remove this question because it has associated responses"
+msgstr "No pudimos eliminar esta pregunta porque tiene respuestas asociadas"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "There was an error while saving item"
+msgstr "Se ha producido un error al guardar el elemento"
+
+msgid "Item was successfully updated"
+msgstr "El elemento se actualizó correctamente"
+
+msgid "There was an error while updating item"
+msgstr "Se ha producido un error al actualizar el elemento"
+
+msgid "Item not found"
+msgstr "No se ha encontrado el elemento"
+
+msgid "Title is required"
+msgstr "Se requiere el Titulo"
+
+msgid "Yes"
+msgstr "Si"
+
+msgid "No"
+msgstr "No"
+
+msgid "There is no saved question with the id"
+msgstr "No hay ninguna pregunta guardada con el identificador"
+
+msgid "Saving"
+msgstr "Guardando"
+
+msgid "Your asnswer"
+msgstr "Tu respuesta"
+
+msgid ""
+"Attention: Your answer has not been saved. It must be at least %d characters "
+"and you typed "
+msgstr ""
+"Atención: Tu respuesta no ha sido guardada. Debe tener al menos %d "
+"caracteres y tú escribiste "
+
+msgid "Minimum %d characters"
+msgstr "Mínimo %d caracteres"
+
+msgid "Your answer has been saved successfully"
+msgstr "Tu respuesta ha sido guardada exitosamente."
+
+msgid "An error occurred saving your response"
+msgstr "Ocurrió un error guardando tu respuesta"
+
+msgid "Please sign in to participate"
+msgstr "Por favor ingresa para participar"
+
+msgid "There are still no responses from other people to this question"
+msgstr "Todavía no hay respuestas de otras personas para esta pregunta"
+
+msgid "No questions found"
+msgstr "No se encontraron preguntas"
+
+msgid "New Question"
+msgstr "Nueva Pregunta"
+
+msgid "New Response"
+msgstr "Nueva Respuesta"

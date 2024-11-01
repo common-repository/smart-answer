@@ -1,0 +1,37 @@
+th#user_id,
+th#favorite,
+th#banned {
+    width: 100px;
+}
+
+th#question_id{
+    width: 125px;
+}
+
+th#first_name {
+    width: 120px;
+}
+
+th#id {
+    width: 120px;
+}
+
+input[type=text], select{
+    width: 200px !important; 
+}
+
+textarea#title,
+textarea#response_text {
+    width: 100%;
+}
+
+input:read-only {
+    color: #a7aaad;
+    border-color: #dcdcde;
+    background-color: #f6f7f7;
+    cursor: default;
+}
+
+.handle-actions.hide-if-no-js {
+    display: none;
+}

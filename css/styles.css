@@ -1,0 +1,325 @@
+.d-none{
+
+
+
+
+    display: none !important;
+
+
+
+
+    pointer-events: none;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.sman-shortcode .learndash_mark_complete_button{
+
+
+
+
+    display: none !important;
+
+
+
+
+    pointer-events: none;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+#sman-container {
+
+
+
+
+    width: 100%;
+
+
+
+
+    text-align: right;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+#sman-response, .textarea-read {
+
+
+
+
+    min-width: 100%;
+
+
+
+
+    border: 2px solid #ddd;
+
+
+
+
+    border-radius: 5px;
+
+
+
+
+    height: 115px;
+
+
+
+
+    display: block;
+
+
+
+
+    margin-bottom: 15px;
+
+
+
+
+    padding: 5px;
+
+
+
+
+    resize: none;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+#sman-submit {
+    background-color: #505050;
+    border: none;
+    border-radius: 9px;
+    color: white;
+    padding: 5px 15px;
+    /*width: 90px;*/
+    display: inline-flex;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+.sman-submit:hover {background-color: #3e8e41}
+
+
+
+
+
+
+
+
+
+.sman-submit:active {
+
+
+
+
+  background-color: #3e8e41;
+
+
+
+
+  box-shadow: 0 5px #666;
+
+
+
+
+  transform: translateY(4px);
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.responses-list {
+
+
+
+
+    border: 0px solid #ddd;
+
+
+
+
+    padding: 20px;
+
+
+
+
+    margin-top: 15px;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.responses-list .response{
+
+
+
+
+    
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+textarea::placeholder {
+
+
+
+
+  text-align:right;
+
+
+
+
+  transform: translateY(80px);
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+#sman-error {
+
+
+
+
+    color: red;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+#sman-success {
+
+
+
+
+    color: green;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.fa-solid, .fas {
+
+
+
+
+    font-weight: 900;
+
+
+
+
+    margin-right: 5px;
+
+
+
+
+    margin-top: 2px;
+
+
+
+
+}
